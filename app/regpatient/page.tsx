@@ -8,7 +8,6 @@ export default function RegPatient() {
     <div className={styles.container}>
       <Header />
       <main className={styles.main}>
-        <h1>À propos</h1>
         <RegPatientForm />
       </main>
       <Footer />

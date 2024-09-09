@@ -1,6 +1,6 @@
-import styles from './RegPatientForm.module.css'
+import styles from './RegMedecinForm.module.css'
 
-export default function RegPatientForm() {
+export default function RegMedecinForm() {
   return (
     <form className={styles.form}>
       <div className={styles.formGroup}>

@@ -24,7 +24,7 @@ export default function Home() {
           <Link href="/regpatient" className={styles.navItem}>
             Patients
           </Link>
-          <Link href="/doctors" className={styles.navItem}>
+          <Link href="/regmedecin" className={styles.navItem}>
             Médecins
           </Link>
           <Link href="/contact" className={styles.navItem}>
